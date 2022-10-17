@@ -1,3 +1,6 @@
+#TC: O(n) 
+#SC: O(n)
+
 class Solution:
     def deleteAndEarn(self, nums: List[int]) -> int:
         
