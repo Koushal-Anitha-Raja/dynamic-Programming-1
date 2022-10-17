@@ -1,3 +1,6 @@
+#TC: O(n)
+#SC: O(n)
+
 class Solution:
     def rob(self, nums: List[int]) -> int:
         """if len(nums)==1:
